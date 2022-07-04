@@ -1,0 +1,8 @@
+Foi desenvolvido uma aplicação para controle de suas despesas,
+a aplicação foi desenvolvida em HTML, CSS e JavaScript.
+
+Funcionalidade muito simples, para adicionar uma receita basta
+adicionar um valor positivo e para adicionar uma despesa basta adicionar 
+um valor negativo, não esqueça de colocar uma descrição para que se lembre 
+do que se tarta o valor adicionado.
+
